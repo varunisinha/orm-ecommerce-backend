@@ -30,13 +30,13 @@ Node Modules Initial SetUp: "(https://github.com/varunisinha/orm-ecommerce-backe
 
 Seeding Project Intial SetUp: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video2.mp4.zip)"
 
-Connecting to the Server, Initial SetUp: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video3.mp4.zip)
+Connecting to the Server, Initial SetUp: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video3.mp4.zip)"
 
-    Categories GET, POST, UPDATE, DELETE: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video4-categories.mp4.zip)
+Categories GET, POST, UPDATE, DELETE: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video4-categories.mp4.zip)"
   
-    Tags GET, POST, UPDATE, DELETE: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video5-tags.mp4.zip)
+Tags GET, POST, UPDATE, DELETE: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video5-tags.mp4.zip)"
 
-    Products GET, POST, UPDATE, DELETE: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video6-products.mp4.zip)
+Products GET, POST, UPDATE, DELETE: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video6-products.mp4.zip)"
 
 🎥 The full movie file showing functionality of the application can be found in the animations directory
   
