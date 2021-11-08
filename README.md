@@ -26,11 +26,11 @@
   
 💻 Below are the videos showing the functionality of the application:
   
-    Node Modules Initial SetUp: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video1.mp4.zip)
+Node Modules Initial SetUp: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video1.mp4.zip"
 
-    Seeding Project Intial SetUp: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video2.mp4.zip)
+Seeding Project Intial SetUp: "(https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video2.mp4.zip)"
 
-    Connecting to the Server, Initial SetUp: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video3.mp4.zip)
+Connecting to the Server, Initial SetUp: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video3.mp4.zip)
 
     Categories GET, POST, UPDATE, DELETE: (https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video4-categories.mp4.zip)
   
