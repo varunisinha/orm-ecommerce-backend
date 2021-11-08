@@ -1,0 +1,31 @@
+{
+  "name": "orm-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "This is an e-commerce backend app",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3-rc.0",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunisinha/orm-ecommerce-backend.git"
+  },
+  "author": "Varuni Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunisinha/orm-ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/varunisinha/orm-ecommerce-backend#readme"
+}
