@@ -24,18 +24,20 @@
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   
-💻 Below is the gif showing the functionality of the application:
+💻 Below are the videos showing the functionality of the application:
   
-![DB Setup and Start](./animations/DB%20setup%20and%20start.gif)
+    Node Modules Initial SetUp: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video1.mp4.zip
 
-![GET All](./animations/GET%20all.gif)
+    Seeding Project Intial SetUp: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video2.mp4.zip
 
-![GET All by ID](./animations/GET%20by%20ID.gif)
+    Connecting to the Server, Initial SetUp: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video3.mp4.zip
 
-![POST PUT DELETE Products and Tags](./animations/POST%20PUT%20DELETE%20Tags%20and%20Products.gif)
-
-![POST PUT DELETE Categories](./animations/POST%20PUT%20DELETE%20Categories.gif)
+    Categories GET, POST, UPDATE, DELETE: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video4-categories.mp4.zip
   
+    Tags GET, POST, UPDATE, DELETE: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video5-tags.mp4.zip
+
+    Products GET, POST, UPDATE, DELETE: https://github.com/varunisinha/orm-ecommerce-backend/blob/main/projectVideos/ecommerce-video6-products.mp4.zip
+
 🎥 The full movie file showing functionality of the application can be found in the animations directory
   
 ## User Story
